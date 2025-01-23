@@ -1,0 +1,15 @@
+{"time":"2025-01-23T08:18:35.354724787Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-23T08:18:35.354744549Z","level":"INFO","msg":"created symlink","path":"/content/wandb/run-20250123_081835-xg0d5ydf/logs/debug-core.log"}
+{"time":"2025-01-23T08:18:35.457114521Z","level":"INFO","msg":"created new stream","id":"xg0d5ydf"}
+{"time":"2025-01-23T08:18:35.457150424Z","level":"INFO","msg":"stream: started","id":"xg0d5ydf"}
+{"time":"2025-01-23T08:18:35.457185151Z","level":"INFO","msg":"writer: Do: started","stream_id":"xg0d5ydf"}
+{"time":"2025-01-23T08:18:35.457219414Z","level":"INFO","msg":"handler: started","stream_id":"xg0d5ydf"}
+{"time":"2025-01-23T08:18:35.457264218Z","level":"INFO","msg":"sender: started","stream_id":"xg0d5ydf"}
+{"time":"2025-01-23T08:18:36.757547356Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T08:57:03.969238256Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-23T08:57:44.614642394Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-23T08:59:16.637756587Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-23T09:00:41.680363263Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-23T09:02:42.860526811Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-23T09:04:04.997779139Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-23T09:04:21.986986754Z","level":"INFO","msg":"Pausing system monitor"}

@@ -1,0 +1,37 @@
+{
+  "os":  "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.12",
+  "startedAt":  "2025-01-23T08:18:35.352282Z",
+  "program":  "notebook0d7f18a8af",
+  "email":  "sallarohit10@gmail.com",
+  "root":  "/content",
+  "host":  "bbe411cc06e6",
+  "executable":  "/usr/bin/python3",
+  "colab":  "https://colab.research.google.com/notebook#fileId=https://storage.googleapis.com/kaggle-colab-exported-notebooks/notebook0d7f18a8af-c7e34055-63b8-484c-baaa-54e1c690b0e9.ipynb?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com/20250123/auto/storage/goog4_request&X-Goog-Date=20250123T072130Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=0159a6d6d38aac5591477fb098f4d05d099717c8c0328ac3f4ba6bbfa509d0b904f9bdf618da6c6cf0f9e4d7ed45ba818e666dab7b8fe8ab6082c779525a6a34362fd7e4b53adcf20a86ad651bf22b645f636ae7a6382de48cb92682ec8f58b42ada9a74cdfab277ad22caa690bd3aba35ad7b4d31f7e2cd858f77cd14e03763f2fbb9b9d355665e2dd162956b3bb5deaacd1c032fdf352ce6ab0579c3b5c3c1654b95b2ddb7a543ff1b9079d105179e68f0f7d51a05160a4014e9a1a5a1aaa9b579b3de931fa8a07f15464db489c5f7c602a6e5668f9496971fc28423744a2edba28a473db5b6df73b03ac24dbe6b773fe048da5b6a18fba9b3eef8509bc6d1",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA A100-SXM4-40GB",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "253055008768",
+      "used":  "51951149056"
+    }
+  },
+  "memory":  {
+    "total":  "89632796672"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA A100-SXM4-40GB",
+      "memoryTotal":  "42949672960",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}
